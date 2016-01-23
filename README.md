@@ -99,7 +99,8 @@ iPhone6で画面上部をクリックする場合は、指が届かない
 
 ##ユーザの指の動き
 
-![システムfont](img/cntl_area.png)  
+![システムfont](img/cntl_area2.png)  
+http://gigazine.net/news/20141209-ios-android-ux-design/
 
 スマートフォンはコンパクトなことから、様々な場所で私用されます。
 
